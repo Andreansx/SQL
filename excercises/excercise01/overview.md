@@ -77,4 +77,5 @@ Now this should work and return something like this:
 
 __This solves the second task along with the whole excercise__
 
-Full solution available in the [`solution.sql`](./solution.sql) file
+Full solution available in the [`solution.sql`](./solution.sql) file.  
+Database used in this excercie: [`local.db`](/local-db/local.db)
