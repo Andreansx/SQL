@@ -4,7 +4,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 </div>
 
-This repository will contain my personal SQL practice – both general exercises and tasks inspired by the Polish high school final exam in computer science (Matura).
+This repository will contain my personal SQL practice – both general exercises and tasks inspired by the Polish high school final exam in computer science (Matura).  
+You can also use the informations provided here as a way of help for yourself if you want, since I try to document everything as good as I can. 
 
 ###  Repo structure
 
