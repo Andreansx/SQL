@@ -18,6 +18,7 @@ CREATE TABLE Employees(
 	Salary INT
 );
 ```
+> remember the `PK` near the EmployeeID class. It makes the `EmployeeID` the **Primary Key** for this table
 
 then [`insert.sql`](./insert.sql):
 ```sql
