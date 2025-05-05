@@ -54,3 +54,12 @@ CREATE TABLE Books(
     FOREIGN KEY (AuthorID) REFERENCES Authors(AuthorID)
 );
 ```
+
+Once the tables creation is correct like in [`create_tables.sql`](./create_tables.sql) file, we can get to the excercise.
+
+<div align="center">
+<h2>First Task</h2>
+</div>
+
+We need to list the titles of the books along with the name of the author.  
+Let's add the neccessary fields to the selection:
