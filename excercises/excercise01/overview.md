@@ -3,9 +3,9 @@
 ## Tasks for this excercise:
 
 ```
-Wypisz pełne imię i nazwisko (FirstName || ' ' || LastName) oraz dział (Department) wszystkich pracowników z działu IT.
+1. Wypisz pełne imię i nazwisko (FirstName || ' ' || LastName) oraz dział (Department) wszystkich pracowników z działu IT.
 
-Znajdź średnie wynagrodzenie (AVG(Salary)) w każdym dziale.
+2. Znajdź średnie wynagrodzenie (AVG(Salary)) w każdym dziale.
 ```
 
 So first I run [`create_tables.sql`](./create_tables.sql):
