@@ -47,6 +47,7 @@ Now, let's list them in **ascending** order by adding:
 ORDER BY Price ASC;
 ```
 > Note that we need to specify the `ASC`. `DESC` would make the products show in **descending** order
+
 The output should return something like this:
 |Name|Price|
 |---|---|
