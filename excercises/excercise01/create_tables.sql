@@ -1,5 +1,5 @@
 CREATE TABLE Employees(
-	EmployeeID INT PK,
+	EmployeeID INT PRIMARY KEY,
 	FirstName TEXT,
 	LastName TEXT,
 	Departament TEXT,

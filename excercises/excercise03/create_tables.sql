@@ -3,7 +3,7 @@ CREATE TABLE Authors(
 	AuthorName TEXT
 );
 CREATE TABLE Books(
-    BookID INT PK,
+    BookID INT PRIMARY KEY,
     BookTitle TEXT,
     AuthorID INT,
     FOREIGN KEY (AuthorID) REFERENCES Authors(AuthorID)

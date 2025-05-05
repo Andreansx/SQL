@@ -11,7 +11,7 @@
 So first I run [`create_tables.sql`](./create_tables.sql):
 ```sql
 CREATE TABLE Employees(
-	EmployeeID INT PK,
+	EmployeeID INT PRIMARY KEY,
 	FirstName TEXT,
 	LastName TEXT,
 	Departament TEXT,

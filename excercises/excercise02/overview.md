@@ -11,7 +11,7 @@
 First let's run the [`create_tables.sql`](create_tables.sql) file. It contains also the data for the table.
 ```sql
 CREATE TABLE Products(
-	ProductID INT PK,
+	ProductID INT PRIMARY KEY,
 	Name TEXT,
 	Price DECIMAL,
 	InStock INT

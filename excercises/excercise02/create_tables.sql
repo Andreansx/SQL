@@ -1,5 +1,5 @@
 CREATE TABLE Products(
-	ProductID INT PK,
+	ProductID INT PRIMARY KEY,
 	Name TEXT,
 	Price DECIMAL,
 	InStock INT
