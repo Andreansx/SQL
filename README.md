@@ -16,9 +16,9 @@ You can also use the informations provided here as a way of help for yourself if
   <br>
   <table>
     <tr>
-      <a href="./excercises/excercise01/overview.md"> First excercise </a></br>
-      <a href="./excercises/excercise02/overview.md"> Second excercise </a></br>
-      <a href="./excercises/excercise03/overview.md"> Third excercise </a></br>
+      <a href="./excercises/excercise01/readme.md"> First excercise </a></br>
+      <a href="./excercises/excercise02/readme.md"> Second excercise </a></br>
+      <a href="./excercises/excercise03/readme.md"> Third excercise </a></br>
     </tr>
   </table>
   </details>
