@@ -14,7 +14,7 @@ CREATE TABLE Authors(
 );
 ```
 This time, we are going to create tables that are related in some way to each other. The table **Books** will get **`AuthorID`** from the **Authors** table.  
-Now this is when I made a mistake when first writing those commands.  
+**Now this is when I made a mistake when first writing those commands.**  
 I wrote the **Books** table creation like this:
 ```sql
 CREATE TABLE Books(
