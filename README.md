@@ -11,7 +11,7 @@ You can also use the informations provided here as a way of help for yourself if
 ###  Repo structure
 
 - **[/exercises](./excercises)**  
-  General SQL exercises based on online tutorials, platforms and ChatGPT. I will use this folder to store excercises in which I will practice basic queries like `SELECT`, filtering, sorting, aggregations, joins, and subqueries. 
+  General SQL exercises based on online tutorials, platforms and ChatGPT. I will use this folder to store excercises in which I will practice basic queries like `SELECT`, filtering, sorting, aggregations, joins, and subqueries. Done using **SQLite** and **MySQL**
   <details>
   <summary>All excercises</summary>
   <br>
