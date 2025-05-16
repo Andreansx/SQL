@@ -48,10 +48,11 @@ In the incorrect version, I forgot to write `FOREIGN KEY` instead of `FK`. This 
 The whole correct version of the `Books` table creation should look like this:
 ```sql
 CREATE TABLE Books(
-    BookID INT PRIMARY KEY,
+    BookID INT,
     BookTitle TEXT,
     AuthorID INT,
-    FOREIGN KEY (AuthorID) REFERENCES Authors(AuthorID)
+    FOREIGN KEY (AuthorID) REFERENCES Authors(AuthorID),
+    PRIMARY KEY (BookID)
 );
 ```
 
