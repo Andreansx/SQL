@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 </div>
 
-This repository will contain my personal SQL practice – both general exercises and tasks inspired by the Polish high school final exam in computer science (Matura).  
+This repository contains my minimalostic SQL explainations and excercises – both general and inspired by the Polish high school final exam in computer science (Matura). No theory, just excercises specifically.
 You can also use the informations provided here as a way of help for yourself if you want, since I try to document everything as good as I can. 
 
 ###  Repo structure
